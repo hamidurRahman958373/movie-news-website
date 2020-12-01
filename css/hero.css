@@ -1,0 +1,114 @@
+.hero .post{
+	padding: 0;
+}
+.hero .post .feature-img-1{
+	background-image: url("../image/ha1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 266px;
+	position: relative;
+}
+.post-cat{
+    color: #fff;
+	background-color: rgba(0,0,0,0.7);
+	text-transform: uppercase;
+	font-size: 13px;
+	padding: 3px 10px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+a.post-title {
+	position: absolute;
+	color: #fff;
+	bottom: 15px;
+	padding-left: 10px;
+	text-transform: uppercase;
+	font-weight: 600;
+	text-decoration: none;
+}
+.hero .post .feature-img-1:hover{
+	background-image: linear-gradient(rgba(242,85,44,0.05),rgba(242,85,44,1)),url("../image/ha1.jpg");
+}
+
+.hero .post .feature-img-2{
+	background-image: url("../image/ha2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 266px;
+	position: relative;
+}
+
+.hero .post .feature-img-2:hover{
+	background-image: linear-gradient(rgba(242,85,44,0.05),rgba(242,85,44,1)),url("../image/ha2.jpg");
+}
+
+
+.hero .post .feature-img-3{
+	background-image: url("../image/ha3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 266px;
+	position: relative;
+}
+
+.hero .post .feature-img-3:hover{
+	background-image: linear-gradient(rgba(242,85,44,0.05),rgba(242,85,44,1)),url("../image/ha3.jpg");
+}
+.left-post,.middle-post{
+	border-right: 1px solid #fff;
+}
+.bottom-post{
+	border-top: 1px solid #fff;
+}
+.hero .post .feature-img-4{
+	background-image: url("../image/ha4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 266px;
+	position: relative;
+}
+
+.hero .post .feature-img-4:hover{
+	background-image: linear-gradient(rgba(242,85,44,0.05),rgba(242,85,44,1)),url("../image/ha4.jpg");
+}
+
+.hero .post .feature-img-5{
+	background-image: url("../image/ha5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 266px;
+	position: relative;
+}
+
+.hero .post .feature-img-5:hover{
+	background-image: linear-gradient(rgba(242,85,44,0.05),rgba(242,85,44,1)),url("../image/ha5.jpg");
+}
+.hero .post .feature-img-6{
+	background-image: url("../image/ha6.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 266px;
+	position: relative;
+}
+
+.hero .post .feature-img-6:hover{
+	background-image: linear-gradient(rgba(242,85,44,0.05),rgba(242,85,44,1)),url("../image/ha6.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+.top-bar{
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #e2e0e0;
+	padding-top: 7px;
+}
+.breaking-title{
+	background: var(--main-accent);
+	padding: 5px 15px 0px 15px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	position: relative;
+}
+.breaking-title::after{
+	top: 100%;
+	left: 0;
+	border: solid transparent;
+	content: "";
+	position: absolute;
+	border-top-color: #f2552c;
+	border-width: 8px;
+}
+.top-bar .breaking-title h6{
+	text-transform: uppercase;
+	color: white;
+	font-size: 12px;
+}
+.b-news-item{
+	width: 1110px;
+	
+}
+.b-news-item a{
+	 color: #333;
+	 font-size: 13px;
+	
+}
+.b-news-item a:hover{
+	 text-decoration: none;
+	
+}
+.owl-carousel,
+.owl-theme,
+.breaking,
+.owl-nav{
+	position: absolute;
+	right: 0;
+	top: 0;
+	margin: 0;
+	
+	
+	
+}
+
+.owl-carousel
+.owl-theme
+.owl-nav>div{
+	 margin: 0;
+	width: 20px;
+	height: 20px;
+	padding: 0;
+	line-height: 20px;
+	border-radius: 0;
+	text-align: center;
+	font-size: 12px;
+	transition: 400ms;
+	-webkit-transition:400ms;
+	
+	
+}
+ 
+.top-bar-social ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.top-bar-social ul li{
+	 display: inline-block;
+	padding: 0;
+	
+}
+.top-bar-social ul li a{
+	 margin-right: 5px;
+	color: #c2c1c1;
+	
+}
+
+.top-bar-social ul li a:hover{
+	 
+	color:var(--main-accent); ;
+	
+}
+.header-content{
+	padding: 15px 0;
+	
+}
+.logo{
+	padding-top: 25px;
+	
+}
+.logo img{
+	height: 80px; 
+	width: 200px;
+	
+	
+}
+.ad-section img{
+	height: 120px;
+	width: 600px;
+}
+
+.navbar-nav
+.nav-link{
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.navbar-nav a{
+	color: #fff !important;
+}
+
+.navbar-nav a:hover{
+	color:var(--main-accent) !important;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

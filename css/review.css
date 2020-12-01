@@ -1,0 +1,60 @@
+.block-title{
+	border-bottom: 2px solid #f2552c;
+	color: white;
+	font-size: 15px;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+}
+.block-title span{
+	background: var(--main-accent);
+	padding: 4px 6px;
+}
+.block-title  h4{
+   margin-top: 15px;
+	color: #333;
+	font-size: 20px;
+	font-weight: 700;
+}
+.meta-info div{
+	display: inline-block;
+	
+}
+.post-block .meta-info .starts{
+    float: right;
+	color: #fcb800 !important;
+}
+.meta-info .author-date{
+     font-size: 13px;
+}
+.meta-info .author-date span{
+      color: var(--main-accent);
+	font-weight: 700;
+	font-style: italic;
+}
+
+
+.block-post p{
+	color: #565555;
+	font-size: 15px;
+	margin-top: 15px;
+}
+.meta-info{
+	border-top: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+	padding: 8px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

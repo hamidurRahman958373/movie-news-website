@@ -1,0 +1,96 @@
+.footer{
+	background-image: linear-gradient(to right,rgba(51,51,51,.92),rgba(58,58,58,.85)),url("../image/ad2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	padding-top: 25px;
+	padding-bottom: 0;
+}
+.widget-container{
+	padding-bottom: 25px;
+}
+.footer .widget-container .about{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-image: url("../image/bac111.png");
+}
+.footer .widget-container .about p{
+	padding-top: 20px;
+	 color: black;
+}
+.footer-widget-container h3{
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 20px;
+	padding-top: 20px;
+}
+.footer-widget-container hr{
+	border: 1px solid #f2552c;
+	width: 25%;
+	margin-left: 0;
+}
+.footer-news-title{
+	color: #fff;
+	font-size: 18px;
+	font-weight: 600;
+}
+.footer-news-title a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.footer-news-date{
+	font-size: 13px;
+	font-style: italic;
+	color: #fff;
+}
+
+footer-news-title{
+	
+}
+
+.twitter-profile-img{
+	display: block;
+	margin: 0 auto;
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+}
+
+.carousel-inner{
+	margin-top: -25px;
+}
+.carousel-caption h5{
+   font-size: 18px;
+	padding-top: 10px;
+	font-weight: 600;
+}
+.carousel-caption span{
+	color: #f2552c;
+}
+
+.copy-right-section{
+	background-color: #333;
+	color: #ccc;
+	padding-top: 25px;
+	font-size: 15px;
+}
+.payment ul li{
+	 display: inline-flex;
+	font-size: 45px;
+}
+.payment ul li:hover{
+	font-size: 55px;
+	color: #f2552c;
+	transition: .5s;
+}
+
+
+
+
+
+
+
+
+
+
